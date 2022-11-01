@@ -1,0 +1,1 @@
+export const FAVOUTITE_LIST = "FAVOUTITE_LIST"
